@@ -1,2 +1,2 @@
 # Bitcoin-Visualization
- A python prograam for understanding the comcepy of NONCE and difficulty in bitcoin Blockchain
+ A python prograam for understanding the concept of NONCE and difficulty in Bitcoin Blockchain
